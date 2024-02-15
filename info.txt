@@ -1,0 +1,7 @@
+name: Singular-v12.2.0-32bebe7d.master
+env: release
+git_commit: 32bebe7d
+git_branch: master
+version_name: 12.2.0
+version_code:1
+build_date: Wed, 30 Aug 2023 18:56:07 +0530
